@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahbeefies.railingagainstrealities.com/sitemap.xml
